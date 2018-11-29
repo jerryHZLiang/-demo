@@ -1,0 +1,17 @@
+.history-list .title{ 
+  color: #8995a1;
+  font-size: 28rpx;
+  padding: 20rpx 40rpx;
+  display: flex;
+  align-items: center;
+  border-bottom: 1rpx solid #888;
+}
+
+.history-list .item{
+  color: #8995a1;
+  font-size: 28rpx;
+  background: #fff;
+  padding-top: 20rpx ;
+  padding-left: 30rpx;
+  box-sizing: border-box;
+}

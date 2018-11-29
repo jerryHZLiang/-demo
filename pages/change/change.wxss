@@ -1,0 +1,31 @@
+
+
+.title{
+  color: #8995a1;
+  font-size: 28rpx;
+  padding: 20rpx 40rpx;
+  display: flex;
+  align-items: center;
+  background-color: #f5fafe;
+  border-bottom: 1rpx solid #c7cee0;
+}
+
+.item{
+  background: #fff;
+  padding: 20rpx 0 20rpx 0;
+  width: calc(100%-48rpx);
+  margin: 0;
+  box-sizing: border-box;
+  border-bottom: 1rpx solid #c7cee0;
+}
+.item .item-inner{
+  position: relative;
+}
+.icon-duihao{
+  position: absolute;
+  right: 12rpx;
+  top: 20rpx;
+  z-index: 100;
+  font-size: 40rpx;
+  color: #888;
+}
